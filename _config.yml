@@ -1,3 +1,4 @@
+---
 # Site settings
 title: Community Speech Therapy
 email: info@communityspeechtherapy.com
@@ -5,7 +6,7 @@ url: https://communityspeechtherapy.github.io
 description: "Speech Langauge Therapy Services"
 keywords: "your keywords, separated by commas"
 skills: "Speech Language Pathology - Evaluations - Therapy Services"
-meta_author: LastName FirstName
+meta_author: Mendez Milena
 
 # Google webmaster tools
 google_verify:
