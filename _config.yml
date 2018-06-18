@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Community Speech Therapy
+email: info@communityspeechtherapy.com
 url: https://communityspeechtherapy.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Speech Langauge Therapy Services"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Speech Language Pathology - Evaluations - Therapy Services"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -25,14 +25,14 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 98e3d4 #FD6E8A
+  primary-rgb: "198,240,231" #"128,179,255"
+  secondary: e398a7 #80B3FF
+  secondary-dark: 3bcaad #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Community Speech Therapy, INC.
   location: Location
   social: Around the Web
   credits: Credits
@@ -41,19 +41,13 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: Miami, FL
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
