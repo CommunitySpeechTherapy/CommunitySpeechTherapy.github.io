@@ -29,7 +29,7 @@ color:
   primary: ece9e1 #FD6E8A
   primary-rgb: "236,233,225" #"128,179,255"
   secondary: 8bbeb4 #80B3FF
-  secondary-dark: 5a4c52 #A2122F
+  secondary-dark: ece9e1 #A2122F
 
 # Footer settings
 footer:
@@ -41,16 +41,16 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: Miami, FL
+address: Miami, FL
+  - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

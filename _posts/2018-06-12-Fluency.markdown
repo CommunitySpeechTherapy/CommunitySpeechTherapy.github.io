@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 5
+date: 2018-06-12
+img: safe.png
+alt: image-alt
+description: Fluency disorders, commonly referred to as stuttering, are characterized by interruptions in the flow of speech. These interruptions can include blocks, prolongations, or sounds and word repetitions.  
+
+---
